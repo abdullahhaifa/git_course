@@ -1,2 +1,2 @@
-# git_course
-for zero web school git course
+#web shop
+using for web developer
